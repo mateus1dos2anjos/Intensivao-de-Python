@@ -6,6 +6,6 @@ Aula 1: Automação de Processos de Tarefas com Python
 
 Aula 2: Análise de Dados com Python
 
-Aula 3: Projeto Completo de Data Science + Machine Learning
+Aula 3: Automação Web (Web-Scraping) com Python
 
-Aula 4: Automação Web (Web-Scraping) com Python
+Aula 4: Projeto Completo de Data Science + Machine Learning
